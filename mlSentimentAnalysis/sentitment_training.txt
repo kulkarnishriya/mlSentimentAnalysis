@@ -1,0 +1,11 @@
+I love this product, it works perfectly!    positive
+This is the worst experience I've ever had.    negative
+It's okay, nothing special.    neutral
+Absolutely fantastic service and friendly staff!    positive
+The food was cold and tasteless.    negative
+I don't really care about this topic.    neutral
+The movie was amazing, I would watch it again!    positive
+The delivery was late and the package was damaged.    negative
+It’s just fine, not good, not bad.    neutral
+I am so happy with my purchase!    positive
+I'm disappointed with the quality.    negative
